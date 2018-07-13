@@ -3,3 +3,5 @@ My First Repository on GitHub
 
 
 My favorite food is lavacake
+
+git init
