@@ -1,3 +1,5 @@
+hejones19-patch-1
+import random
 '''
 Making a bunch of errors!
 
@@ -23,3 +25,11 @@ if __name__=='__main__':
 	infinite_recursion(infinite_recursion)
 
 print("hello-world")
+
+x = random.randint(1,10)
+
+if x <6:
+	print "hello world!"
+elif x <11:
+	print "goodbye cruel world!"
+master
