@@ -12,7 +12,7 @@ Unknown
 Stuff
 
 and Text to an otherwise elegantly written program
-'''
+
 
 while True:
 	print('I am an infinite loop!')
@@ -25,7 +25,7 @@ if __name__=='__main__':
 	infinite_recursion(infinite_recursion)
 
 print("hello-world")
-
+'''
 x = random.randint(1,10)
 
 if x <6:
